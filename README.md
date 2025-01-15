@@ -30,14 +30,13 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 * [Vakaro žvaigždelė](https://www.youtube.com/@VakaroZvaigzdele/videos) - Shows for kids, good read stories with clear audio. In the [website](www.zvaigzdele.lt) there are some nice kids songs with clear lyrics, although no written lirycs.
 
 ## Online courses
-* [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
-* [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
-* [Deutsche Welle](https://www.dw.com/learn-german/) [\[app\]](https://play.google.com/store/apps/details?id=com.dw.learngerman)
-* [Lingolia](https://deutsch.lingolia.com/en/) [\[app\]](https://play.google.com/store/apps/details?id=com.lingolia.daily.app)
-* [BBC German Course](http://www.bbc.co.uk/languages/german/)
-* [German.net](http://german.net/)
-* [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
-* [Deutsch.info](https://deutsch.info/en)
+* []()
+Arqus European University  Alliance online class. Last year the class was from October to January, this year it has not been announced yet.
+https://arqus-alliance.eu/event/arqus-a1-online-lithuanian-course/
+
+
+My Lithuanian Course A1 By  EU Academy:
+https://academy.europa.eu/courses/my-lithuanian-course-a1?lang=en
 
 
 ## Useful apps and services
