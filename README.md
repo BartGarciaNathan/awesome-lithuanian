@@ -32,7 +32,8 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 ## Online courses
 * [Arqus European University  Alliance online class](https://arqus-alliance.eu/event/arqus-a1-online-lithuanian-course/) - Last year the class was from October to January, this year it has not been announced yet.
 * [My Lithuanian Course A1 By  EU Academy](https://academy.europa.eu/courses/my-lithuanian-course-a1?lang=en) - Novice class, a one day length class. 
-
+* [Glossika Audio Class](https://ai.glossika.com/language/learn-lithuanian) - Learn by listening to phrases. The content is not free
+* [Lingberries Lithuanian Course](https://www.debeselis.net/courses/lithuanian) - Notes from a class, very helpful but saddly the information is organized in a way that does not have a natural progression. Feels more like somones notes that got posted there. Still quite useful. 
 
 ## Books
 * []() - 
