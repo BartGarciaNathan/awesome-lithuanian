@@ -8,12 +8,12 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 
 ## Table of contents
 * [YouTube channels](#youtube-channels)
-
-
 * [Online courses](#online-courses)
+* [Books](#books)
+
 * [Useful apps and services](#useful-apps-and-services)
 * [Podcasts](#podcasts)
-* [Books](#books)
+
 * [Government Institutes](#government-institutes)
 
 
@@ -30,13 +30,12 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 * [Vakaro žvaigždelė](https://www.youtube.com/@VakaroZvaigzdele/videos) - Shows for kids, good read stories with clear audio. In the [website](www.zvaigzdele.lt) there are some nice kids songs with clear lyrics, although no written lirycs.
 
 ## Online courses
-* []()
-Arqus European University  Alliance online class. Last year the class was from October to January, this year it has not been announced yet.
-https://arqus-alliance.eu/event/arqus-a1-online-lithuanian-course/
+* [Arqus European University  Alliance online class](https://arqus-alliance.eu/event/arqus-a1-online-lithuanian-course/) - Last year the class was from October to January, this year it has not been announced yet.
+* [My Lithuanian Course A1 By  EU Academy](https://academy.europa.eu/courses/my-lithuanian-course-a1?lang=en) - Novice class, a one day length class. 
 
 
-My Lithuanian Course A1 By  EU Academy:
-https://academy.europa.eu/courses/my-lithuanian-course-a1?lang=en
+## Books
+* []() - 
 
 
 ## Useful apps and services
@@ -62,7 +61,7 @@ https://academy.europa.eu/courses/my-lithuanian-course-a1?lang=en
 ## Podcasts
 
 
-## Books
+
 
 
 
