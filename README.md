@@ -1,4 +1,4 @@
-# awesome-lithuanian 🇱🇹
+# awesome-lithuanian 🇱🇹 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A great source of information to learn and practice Lithuanian as a foreign language.
 
