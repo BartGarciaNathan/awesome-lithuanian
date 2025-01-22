@@ -11,9 +11,7 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 * [Online courses](#online-courses)
 * [Web Tools](#web-tools)
 * [Books](#books)
-
-* [Useful apps and services](#useful-apps-and-services)
-* [Podcasts](#podcasts)
+* [Cool Lithuanian Git Repos](#Cool-Lithuanian-Git-Repos)
 
 ## YouTube channels
 
