@@ -11,7 +11,8 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 * [Online courses](#online-courses)
 * [Web Tools](#web-tools)
 * [Books](#books)
-* [Cool Lithuanian Git Repos](#Cool-Lithuanian-Git-Repos)
+* [Cool Lithuanian Git Repos](#cool-lithuanian-git-repos)
+* [Contribute](#contribute)
 
 ## YouTube channels
 
@@ -23,6 +24,7 @@ A great source of information to learn and practice Lithuanian as a foreign lang
 * [Dainu Karusele TV](https://www.youtube.com/@DainuKaruseleTV) - Kids show, songs to learn numbers and basic words. A bit difficult for a total beginner, but useful once you have some vocabulary, as words in songs are said not too fast, sentences are simple and keywords are repeated very often. Written text in video background tends to be in English, which helps a bit to contextualise.
 * [Džimba](https://www.youtube.com/channel/UCTAjf-rSIfbPkvHcc9Q8Dgg) - Kids music. Not for a total beginner, but once you have some vocabulary its quite useful. I specially like Katinas Kukulis. Sentences are a bit less formal, and a good way to learn more 'spoken' language.
 * [Vakaro žvaigždelė](https://www.youtube.com/@VakaroZvaigzdele/videos) - Shows for kids, good read stories with clear audio. In the [website](www.zvaigzdele.lt) there are some nice kids songs with clear lyrics, although no written lyrics.
+* [Lithuanian for Kids](https://www.youtube.com/@LithuanianForKids) - A bunch of short videos to teach kids Lithuanian, usually with english translation. Its a bit simple, but can be useful for a less organized/analytical study process. 
 
 ## Online courses
 
